@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+descriptors:
+   - "AKAZE-DESCRIPTOR_KAZE_UPRIGHT"
+   - "AKAZE"
+   - "ORB"
+   - "BRISK"
+mathes:
+   - "BruteForce"
+   - "BruteForce-L1"
+   - "BruteForce-Hamming"
+   - "BruteForce-Hamming(2)"
+images:
+   - "../images/1.png"
+   - "../images/2.png"
